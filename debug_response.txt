@@ -1,0 +1,125 @@
+```json
+[
+  {
+    "sentence": "सुर्खेत स्थित कालिन्चोक क्रिकेट मैदानमा टस जितेर पहिला ब्याटिङ थालेको एपीएफले निर्धारित २० ओभरमा ८ विकेट गुमाउँदै १ सय ५३ रन बनाएको थियो",
+    "matched_locations": ["सुर्खेत", "कालिन्चोक क्रिकेट मैदान"],
+    "translated_sentence_en": "APF, after winning the toss and batting first at Kalinchok Cricket Ground in Surkhet, scored 153 runs losing 8 wickets in the stipulated 20 overs.",
+    "matched_locations_en": ["Surkhet", "Kalinchok Cricket Ground"]
+  },
+  {
+    "sentence": "कोलकतालाई विशाल योगफल बनाउन आन्द्रे रसेलले विश्फोटक ब्याटिङ गर्दै मैदानमा चौका र छक्काको वर्षा गराए",
+    "matched_locations": ["कोलकता"],
+    "translated_sentence_en": "Andre Russell made a shower of fours and sixes on the field with explosive batting to make a huge total for Kolkata.",
+    "matched_locations_en": ["Kolkata"]
+  },
+  {
+    "sentence": "कोलकतालाई विशाल योगफल बनाउन आन्द्रे रसेलले विश्फोटक ब्याटिङ गर्दै मैदानमा चौका र छक्काको वर्षा गराए",
+    "matched_locations": ["कोलकता"],
+    "translated_sentence_en": "Andre Russell made a shower of fours and sixes on the field with explosive batting to make a huge total for Kolkata.",
+    "matched_locations_en": ["Kolkata"]
+  },
+  {
+    "sentence": "प्रतियोगिता कीर्तिपुर त्रिवि क्रिकेट मैदानमा बैशाख १८ देखी २४ गते सम्म चल्ने छ",
+    "matched_locations": ["कीर्तिपुर त्रिवि क्रिकेट मैदान"],
+    "translated_sentence_en": "The competition will be held at Kirtipur TU Cricket Ground from Baisakh 18 to 24.",
+    "matched_locations_en": ["Kirtipur TU Cricket Ground"]
+  },
+  {
+    "sentence": "फाईनल बाहेक अन्य सबै दिन विहान ८ : ३० र दिउँसो १ : १५ बाट टियु मैदानमा खेल सुरु हुनेछ",
+    "matched_locations": ["टियु मैदान"],
+    "translated_sentence_en": "Except for the final, the game will start at TU ground at 8:30 am and 1:15 pm on all other days.",
+    "matched_locations_en": ["TU ground"]
+  },
+  {
+    "sentence": "त्यस अघि कर्णालीले कालिन्चोक मैदानमा टस जितेर पहिला ब्याटिङ गर्दै निर्धारित २० ओभरमा ७ विकेट गुमाउँदै १ सय ५६ रन बनाएको थियो",
+    "matched_locations": ["कर्णाली", "कालिन्चोक मैदान"],
+    "translated_sentence_en": "Before that, Karnali won the toss and batted first at Kalinchok ground, scoring 156 runs losing 7 wickets in the stipulated 20 overs.",
+    "matched_locations_en": ["Karnali", "Kalinchok ground"]
+  },
+  {
+    "sentence": "यस पटक भारतका ऋषभ पन्त,आम्बीत रायुडु, इंग्ल्यान्डका जोफ्रा आर्चर, श्रीलंकाका दिनेश चान्डिमल, अष्ट्रेलियाका पिटर हेन्डस्कम्व,वेस्ट इन्डिजका सुनिल नारायण र किराण पोलार्ड जस्ता स्टार खेलाडीले विश्वकपमा मौका पाएनन्",
+    "matched_locations": ["भारत", "इंग्ल्यान्ड", "श्रीलंका", "अष्ट्रेलिया", "वेस्ट इन्डिज"],
+    "translated_sentence_en": "This time, star players like Rishabh Pant and Ambit Rayudu from India, Jofra Archer from England, Dinesh Chandimal from Sri Lanka, Peter Handscomb from Australia, Sunil Narine and Kieron Pollard from West Indies did not get a chance in the World Cup.",
+    "matched_locations_en": ["India", "England", "Sri Lanka", "Australia", "West Indies"]
+  },
+  {
+    "sentence": "कालिन्चोक मैदानमा मंगलबार टस जितेर ब्याटिङ गरेको आर्मीले निर्धारित २० ओभरमा ७ विकेट गुमाएर १ सय ७८ रन जोडेको थियो",
+    "matched_locations": ["कालिन्चोक मैदान"],
+    "translated_sentence_en": "Army, who won the toss and batted on Tuesday at Kalinchok ground, scored 178 runs for the loss of 7 wickets in the stipulated 20 overs.",
+    "matched_locations_en": ["Kalinchok ground"]
+  },
+  {
+    "sentence": "कालिन्चोक मैदानमा मंगलबार बिहान सम्पन्न खेलमा टस जितेर ब्याटिंग गरेको न्यु होराइजन क्रिकेट एकेडेमीले १८.२ ओभरमा सम्पूर्ण विकेट गुमाएर ९२ रन बनाउन सकेको थियो",
+    "matched_locations": ["कालिन्चोक मैदान"],
+    "translated_sentence_en": "New Horizon Cricket Academy, who won the toss and batted in the game held on Tuesday morning at Kalinchok ground, managed to score 92 runs losing all wickets in 18.2 overs.",
+    "matched_locations_en": ["Kalinchok ground"]
+  },
+  {
+    "sentence": "बेंगलोरले विराट कोहली र एबी डी भिलियर्सलाई ओपनरको रुपमा मैदान उतारेको थियो",
+    "matched_locations": ["बेंगलोर"],
+    "translated_sentence_en": "Bangalore fielded Virat Kohli and AB de Villiers as openers.",
+    "matched_locations_en": ["Bangalore"]
+  },
+  {
+    "sentence": "अर्थात अवे मैदानमा दुई खेलमा मात्र मौका पाएका छन्",
+    "matched_locations": [],
+    "translated_sentence_en": "That means they have only got a chance in two away games.",
+    "matched_locations_en": []
+  },
+  {
+    "sentence": "केहि खेलमा दिल्लीले कोटलामा सन्दीप र अन्य मैदानमा प्राय अफ्रिका अलराउण्डर क्रिस मोरिसलाई मौका दिएको छ",
+    "matched_locations": ["दिल्ली", "कोटला", "अफ्रिका"],
+    "translated_sentence_en": "In some games, Delhi gave Sandeep a chance in Kotla and African all-rounder Chris Morris in other grounds.",
+    "matched_locations_en": ["Delhi", "Kotla", "Africa"]
+  },
+  {
+    "sentence": "आज सन्दीपको स्थानमा दिल्लीले मोरिसलाई मैदान उतार्न सक्छ",
+    "matched_locations": ["दिल्ली"],
+    "translated_sentence_en": "Today Delhi may field Morris in place of Sandeep.",
+    "matched_locations_en": ["Delhi"]
+  },
+  {
+    "sentence": "यद्ययी चेन्नईको मैदान स्पिनर उपयोगि हुँदा मिश्रा र सन्दीप दुबैले मौका पाउन सक्छन्",
+    "matched_locations": ["चेन्नई"],
+    "translated_sentence_en": "However, when Chennai's ground is suitable for spinners, both Mishra and Sandeep may get a chance.",
+    "matched_locations_en": ["Chennai"]
+  },
+  {
+    "sentence": "सुर्खेतको कालिन्चोक मैदानमा टस जितेर ब्याटिङ थालेको एपीएफले निर्धारित २० ओभरमा ९ विकेट गुमाएर १ सय ४३ रन बनाएको थियो",
+    "matched_locations": ["सुर्खेत", "कालिन्चोक मैदान"],
+    "translated_sentence_en": "APF, after winning the toss and batting at Kalinchok ground in Surkhet, scored 143 runs losing 9 wickets in the stipulated 20 overs.",
+    "matched_locations_en": ["Surkhet", "Kalinchok ground"]
+  },
+  {
+    "sentence": "आयोजकले बिहीबार एक प्रेस विज्ञप्ती जारी गर्दै डब्लुसिएल असोज ३ गतेदेखि ११ गते सम्म कीर्तिपुरस्थित त्रिवि मैदानमा हुनेछ",
+    "matched_locations": ["कीर्तिपुरस्थित त्रिवि मैदान"],
+    "translated_sentence_en": "The organizers issued a press release on Thursday stating that the WCL will be held from October 19 to October 27 at the TU ground in Kirtipur.",
+    "matched_locations_en": ["TU ground in Kirtipur"]
+  },
+  {
+    "sentence": "सहभागी टोली मध्ये ललितपुरको मालिकमा श्रीजना जोशी रहेकी छन्",
+    "matched_locations": ["ललितपुर"],
+    "translated_sentence_en": "Srijana Joshi is the owner of Lalitpur among the participating teams.",
+    "matched_locations_en": ["Lalitpur"]
+  },
+  {
+    "sentence": "जुन ललितपुर फाल्कोन्सको स्वामित्वमा रहनेछ",
+    "matched_locations": ["ललितपुर"],
+    "translated_sentence_en": "Which will be owned by Lalitpur Falcons.",
+    "matched_locations_en": ["Lalitpur"]
+  },
+  {
+    "sentence": "त्यस्तै पोखरा पल्टन प्रा",
+    "matched_locations": ["पोखरा"],
+    "translated_sentence_en": "Similarly, Pokhara Paltan Pvt.",
+    "matched_locations_en": ["Pokhara"]
+  },
+  {
+    "sentence": "कीर्तिपुरस्थित त्रिवि मैदानमा टस जितेर पहिला ब्याटिङ थालेको गण्डकीले २०.५ ओभरमा अल आउट हुँदै ९० रनमा समेटियो",
+    "matched_locations": ["कीर्तिपुरस्थित त्रिवि मैदान", "गण्डकी"],
+    "translated_sentence_en": "Gandaki, after winning the toss and batting first at the TU ground in Kirtipur, were all out for 90 runs in 20.5 overs.",
+    "matched_locations_en": ["TU ground in Kirtipur", "Gandaki"]
+  }
+]
+```
+
